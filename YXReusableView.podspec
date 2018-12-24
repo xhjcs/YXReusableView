@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name                = 'YXReusableView'
     s.summary             = 'YXReusableView'
-    s.version             = '1.0.0'
+    s.version             = '1.0.2'
     s.homepage            = 'https://github.com/xinghanjie/YXReusableView'
     s.license             = { :type => 'MIT', :file => 'LICENSE' }
   
